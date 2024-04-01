@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1711877755587" clover="3.2.0">
+  <project timestamp="1711877755588" name="All files">
+    <metrics statements="33" coveredstatements="24" conditionals="5" coveredconditionals="0" methods="6" coveredmethods="3" elements="44" coveredelements="27" complexity="0" loc="33" ncloc="33" packages="2" files="2" classes="2"/>
+    <package name="components">
+      <metrics statements="31" coveredstatements="22" conditionals="5" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="SelectTimeRange.tsx" path="C:\Users\user\Documents\dev\Interview-FE\fe-coding-task\src\components\SelectTimeRange.tsx">
+        <metrics statements="31" coveredstatements="22" conditionals="5" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="5" type="stmt"/>
+        <line num="29" count="5" type="stmt"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="42" count="5" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+        <line num="50" count="5" type="stmt"/>
+        <line num="51" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="52" count="0" type="stmt"/>
+        <line num="56" count="5" type="stmt"/>
+        <line num="69" count="10" type="stmt"/>
+        <line num="74" count="300" type="stmt"/>
+      </file>
+    </package>
+    <package name="constants">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="timeRangeConstants.ts" path="C:\Users\user\Documents\dev\Interview-FE\fe-coding-task\src\constants\timeRangeConstants.ts">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
